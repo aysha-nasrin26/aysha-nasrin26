@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aysha 👋
 
-<!--
-**aysha-nasrin26/aysha-nasrin26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Python Developer passionate about building real-world projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Flask
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🎤 Python Voice Assistant
+- 🤖 AI Chatbot for College
+- 🌐 Personal Portfolio Website
+- 📚 CRUD Applications using MySQL
+
+## 🌱 Currently Learning
+- Advanced Python
+- Web Development
+- APIs & Automation
+
+## 📫 Connect With Me
+- [LinkedIn: https://www.linkedin.com](https://www.linkedin.com/in/aysha-nasrin-a5a5b32b0)
