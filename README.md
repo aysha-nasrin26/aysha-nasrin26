@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=popins&pause=1000&color=FFF7F7E9&width=435&lines=Hi+I'm+Aysha+Nasrin+%F0%9F%91%8B;Aspiring+Python+Developer;Backend+Developer;Web+Developer;%22Keep+learning.+Keep+building.+Keep+growing.%22)](https://git.io/typing-svg)
-# Hi 👋, I'm Aysha Nasrin
+# Hi, I'm Aysha Nasrin
 
 ### 💻 Aspiring Python & Web Developer
 
@@ -19,7 +19,7 @@ Passionate about building real-world web applications, automation tools, and mod
 * CSS3
 * JavaScript
 * Git & GitHub
-* Figma
+* Capcut
 * Canva
 
 ---
@@ -36,7 +36,7 @@ Voice-controlled assistant capable of performing basic automation tasks.
 
 ### 🤖 AI Chatbot for College
 
-Intelligent chatbot designed to answer student queries and provide college-related information.
+An intelligent chatbot designed to answer student queries and provide college-related information.
 
 ### 🌐 Personal Portfolio Website
 
@@ -69,7 +69,7 @@ Database-driven applications implementing Create, Read, Update, and Delete opera
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: [www.linkedin.com/in/aysha-nasrin-52b470303](http://www.linkedin.com/in/aysha-nasrin-52b470303)
+🔗 LinkedIn: (http://www.linkedin.com/in/aysha-nasrin-52b470303)
 
 📧 Open to internships, freelance projects, and collaboration opportunities.
 
