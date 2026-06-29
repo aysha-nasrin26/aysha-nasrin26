@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=popins&pause=1000&color=C3190FE9&width=435&lines=Hi+I'm+Aysha+Nasrin+%F0%9F%91%8B;Aspiring+Python+Developer;Backend+Developer;Web+Developer;%22Keep+learning.+Keep+building.+Keep+growing.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=popins&pause=1000&color=FFF7F7E9&width=435&lines=Hi+I'm+Aysha+Nasrin+%F0%9F%91%8B;Aspiring+Python+Developer;Backend+Developer;Web+Developer;%22Keep+learning.+Keep+building.+Keep+growing.%22)](https://git.io/typing-svg)
 # Hi 👋, I'm Aysha Nasrin
 
 ### 💻 Aspiring Python & Web Developer
