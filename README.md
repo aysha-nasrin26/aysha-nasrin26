@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aysha+Nasrin+👋;Aspiring+Python+Developer;Backend+Developer;Web+Developer;Always+Learning+🚀" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=popins&pause=1000&color=C3190FE9&width=435&lines=Hi+I'm+Aysha+Nasrin+%F0%9F%91%8B;Aspiring+Python+Developer;Backend+Developer;Web+Developer;%22Keep+learning.+Keep+building.+Keep+growing.%22)](https://git.io/typing-svg)
 # Hi 👋, I'm Aysha Nasrin
 
 ### 💻 Aspiring Python & Web Developer
