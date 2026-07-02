@@ -52,7 +52,7 @@ I believe every project is an opportunity to learn something new and become a be
 
 </p>
 
-> ⚠️ Replace **ayshanasrin2606@gmail.com** with your actual email address.
+>  **ayshanasrin2606@gmail.com**
 
 ---
 
@@ -368,7 +368,7 @@ Whether it's discussing development, sharing ideas, or working together on somet
 
 </div>
 
-> ⚠️ Replace `ayshanasri2606@gmail.com` with your actual email address.
+> `ayshanasri2606@gmail.com`
 
 ---
 
