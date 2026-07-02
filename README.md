@@ -46,13 +46,13 @@ I believe every project is an opportunity to learn something new and become a be
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ayshanasrin2606@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-> ⚠️ Replace **YOUR_EMAIL@gmail.com** with your actual email address.
+> ⚠️ Replace **ayshanasrin2606@gmail.com** with your actual email address.
 
 ---
 
@@ -95,3 +95,295 @@ I believe every project is an opportunity to learn something new and become a be
 ```
 
 ---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📋 TaskFlow
+
+A modern productivity-focused task management application built to practice full stack development.
+
+**Tech Stack**
+
+- ⚛️ React
+- ⚡ FastAPI
+- 🗄️ MySQL
+
+**Current Status**
+
+🟡 **Currently Building**
+
+**Focus**
+
+- User Authentication
+- CRUD Operations
+- Clean UI
+- REST APIs
+
+</td>
+
+<td width="50%">
+
+### ✅ TODO_PY
+
+A lightweight task manager developed using Flask to strengthen backend fundamentals.
+
+**Tech Stack**
+
+- 🐍 Python
+- 🌶 Flask
+- 🗄️ MySQL
+
+**Status**
+
+🟢 Completed
+
+**Highlights**
+
+- CRUD Operations
+- Database Integration
+- Simple & Clean UI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🎤 Python Voice Assistant
+
+A desktop assistant capable of handling voice commands and simple automation tasks.
+
+**Tech Stack**
+
+- 🐍 Python
+
+**Features**
+
+- Speech Recognition
+- Text-to-Speech
+- Voice Commands
+- Automation
+
+</td>
+
+<td>
+
+### 🌐 Portfolio Website
+
+A responsive personal portfolio showcasing projects, skills, and continuous learning.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+
+**Status**
+
+🟡 Continuously Improving
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌱 Currently Learning
+
+<table>
+
+<tr>
+
+<td>⚛️ React</td>
+
+<td>⚡ FastAPI</td>
+
+<td>🔗 REST APIs</td>
+
+</tr>
+
+<tr>
+
+<td>🔐 Authentication</td>
+
+<td>☁️ Deployment</td>
+
+<td>🏗 Full Stack Development</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build 10+ real-world projects
+- 💼 Secure my first Software Developer Internship
+- 🌍 Contribute to Open Source
+- 📚 Strengthen DSA & Problem Solving
+- ⚡ Master FastAPI & React
+- 🧠 Keep learning consistently
+- ❤️ Build applications that create real impact
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aysha-nasrin26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysha-nasrin26&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+> **Note:** If these cards don't appear immediately, it's usually because the GitHub Stats service is temporarily unavailable. They normally reappear automatically.
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aysha-nasrin26&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aysha-nasrin26&theme=algolia&no-frame=true&no-bg=true&margin-w=12"/>
+
+</div>
+
+---
+
+# 📈 Coding Journey
+
+```text
+2024  ██████████░░░░ Started Python
+2025  ██████████████ Flask • MySQL • GitHub
+2026  █████████████████ FastAPI • React • Full Stack
+Next  █████████████████████ Building Real World Products 🚀
+```
+
+---
+
+# 💡 Beyond Coding
+
+- ☕ I enjoy learning by building projects.
+- 📖 I believe consistency is more powerful than perfection.
+- 🎯 Every completed project is a step toward becoming a better developer.
+- 🚀 My goal is to create applications that are both useful and enjoyable to use.
+
+---
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aysha-nasrin26&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+> 💡 *If the activity graph doesn't load immediately, GitHub's graph service may be temporarily unavailable. It usually starts working again automatically.*
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aysha-nasrin26&label=Profile%20Views&color=red&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌟 Current Focus
+
+<div align="center">
+
+| 🎯 Goal | 🚀 Progress |
+|:--------|:------------|
+| Full Stack Development | 🟡 Learning & Building |
+| React | 🟡 In Progress |
+| FastAPI | 🟡 Improving |
+| Backend Development | 🟢 Strong Foundation |
+| REST APIs | 🟡 Learning |
+| Real World Projects | 🟢 Building |
+
+</div>
+
+---
+
+# ❤️ Developer Mindset
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=4500&pause=1200&color=FF4D4D&center=true&vCenter=true&width=900&lines=Every+commit+represents+progress.;Every+project+is+an+opportunity+to+learn.;Every+challenge+makes+me+a+better+developer."/>
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> ### *"Success isn't built in a single day. It's built through small, consistent efforts repeated every day."*
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always excited to learn, collaborate, and build meaningful projects.
+
+Whether it's discussing development, sharing ideas, or working together on something exciting, feel free to connect with me.
+
+<a href="https://www.linkedin.com/in/aysha-nasrin-52b470303">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayshanasri2606@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+> ⚠️ Replace `ayshanasri2606@gmail.com` with your actual email address.
+
+---
+
+<div align="center">
+
+## 🌟 Thank You for Visiting My Profile
+
+*"Every line of code I write is another step toward becoming the developer I aspire to be."*
+
+<br>
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:0D0D0D,50:7B0000,100:FF3131"/>
+
+</div>
