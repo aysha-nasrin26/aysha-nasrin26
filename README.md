@@ -42,7 +42,7 @@ I believe every project is an opportunity to learn something new and become a be
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/aysha-nasrin-52b470303">
+<a href="www.linkedin.com/in/aysha-nasrin-a5a5b32b0">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -104,7 +104,7 @@ I believe every project is an opportunity to learn something new and become a be
 
 ### 📋 TaskFlow
 
-A modern productivity-focused task management application built to practice full stack development.
+A modern productivity-focused task management application built to practice full-stack development.
 
 **Tech Stack**
 
@@ -240,14 +240,11 @@ A responsive personal portfolio showcasing projects, skills, and continuous lear
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aysha-nasrin26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aysha-nasrin26&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysha-nasrin26&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysha-nasrin26&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
-
-> **Note:** If these cards don't appear immediately, it's usually because the GitHub Stats service is temporarily unavailable. They normally reappear automatically.
-
 ---
 
 # 🔥 GitHub Streak
@@ -258,15 +255,6 @@ A responsive personal portfolio showcasing projects, skills, and continuous lear
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aysha-nasrin26&theme=algolia&no-frame=true&no-bg=true&margin-w=12"/>
-
-</div>
 
 ---
 
