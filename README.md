@@ -239,12 +239,11 @@ A responsive personal portfolio showcasing projects, skills, and continuous lear
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aysha-nasrin26&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysha-nasrin26&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
+  <img height="165" src="https://vercel.app" alt="Aysha's GitHub Stats" />
+  <img height="165" src="https://vercel.app" alt="Aysha's Top Languages" />
 </div>
+
+
 ---
 
 # 🔥 GitHub Streak
