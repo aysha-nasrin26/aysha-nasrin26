@@ -1,14 +1,20 @@
 <div align="center">
 
-# Hi 👋, I'm Aysha Nasrin
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=8B0000,FF0000&text=Aysha%20Nasrin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Python%20Developer&descAlignY=55&animation=fadeIn"/>
 
-### 💻 Aspiring Full Stack Python Developer from India 🇮🇳
+</div>
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=FF4D4D&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Python+Developer;Backend+Developer+%7C+FastAPI+%26+Flask;Building+Real+World+Projects;React+Learner;Open+to+Internships+%26+Freelance;Keep+Learning.+Keep+Building.+Keep+Growing."/>
-</p>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aysha-nasrin26&label=Profile%20Views&color=red&style=for-the-badge"/>
+# 👋 Hi, I'm Aysha Nasrin
+
+### 💻 Full Stack Python Developer (Learning & Building)
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=FF4D4D&center=true&vCenter=true&width=700&lines=Python+Developer;Flask+Developer;FastAPI+Developer;React+Learner;Building+Real+World+Projects;Open+to+Internships;Keep+Learning.+Keep+Building."/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=aysha-nasrin26&label=Profile+Views&style=for-the-badge&color=red"/>
 
 </div>
 
@@ -16,12 +22,12 @@
 
 # 💫 About Me
 
-- 🌱 Currently learning **React, FastAPI & Full Stack Development**
-- 💻 Passionate about building real-world web applications
-- 🚀 Exploring APIs, Authentication & Database Design
-- 🎯 Goal: Become a Full Stack Python Developer
-- 💼 Open to **Internships, Freelance Projects & Collaborations**
-- ⚡ I enjoy turning ideas into clean, modern and responsive web applications.
+- 💻 Passionate about Backend & Full Stack Development
+- 🚀 Building real-world projects with Python
+- 🌱 Currently learning React & FastAPI
+- 💡 Love solving real-life problems through code
+- 🎯 Goal: Become a Professional Full Stack Developer
+- ❤️ Always learning something new
 
 ---
 
@@ -41,18 +47,19 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,html,css,javascript,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,html,css,js,mysql,git,github,vscode,postman,figma"/>
 
 </p>
 
 ---
 
-# 🛠 Tools I Use
+# 🛠 Tools
 
 - VS Code
-- Git & GitHub
-- MySQL Workbench
+- Git
+- GitHub
 - Postman
+- MySQL Workbench
 - Canva
 - CapCut
 
@@ -60,34 +67,43 @@
 
 # 📌 Featured Projects
 
-### 🚀 TaskFlow
-Modern Todo Application built with **React + FastAPI + MySQL**
+## 🚀 TaskFlow
 
-### ✅ TODO_PY
-Task Management Application built using **Python & Flask**
+Modern Task Management App built using **React + FastAPI + MySQL**
 
-### 🎤 Python Voice Assistant
-Voice-controlled assistant for automation tasks using Python
+---
 
-### 🤖 AI Chatbot for College
-Smart chatbot to answer student queries
+## ✅ TODO_PY
 
-### 🌐 Personal Portfolio Website
-Responsive portfolio showcasing projects and skills
+Task Manager built with **Python + Flask**
 
-### 📚 CRUD Applications
-Database-driven CRUD projects using **Flask & MySQL**
+---
+
+## 🎤 Python Voice Assistant
+
+Voice Controlled Assistant using Python
+
+---
+
+## 🤖 AI College Chatbot
+
+Chatbot for answering student queries
+
+---
+
+## 🌐 Portfolio Website
+
+Responsive Portfolio built using HTML, CSS & JavaScript
 
 ---
 
 # 🌱 Currently Learning
 
-- React.js
+- React
 - FastAPI
 - REST APIs
 - Authentication
 - Deployment
-- Full Stack Development
 
 ---
 
@@ -96,8 +112,8 @@ Database-driven CRUD projects using **Flask & MySQL**
 - ✅ Build 10+ Real World Projects
 - 🚀 Master Backend Development
 - 🌍 Contribute to Open Source
-- 💼 Land my First Developer Role
-- ⭐ Grow as a Full Stack Developer
+- 💼 Land my First Developer Job
+- ⭐ Become a Full Stack Developer
 
 ---
 
@@ -123,11 +139,21 @@ Database-driven CRUD projects using **Flask & MySQL**
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aysha-nasrin26&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aysha-nasrin26&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aysha-nasrin26&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -135,13 +161,16 @@ Database-driven CRUD projects using **Flask & MySQL**
 
 # 💡 Quote
 
-> **"Code. Learn. Build. Repeat."** 🚀
+> **Code. Learn. Build. Repeat. 🚀**
+
+---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Every project is another step toward becoming the developer I aspire to be."* ❤️
+*"Every commit takes me one step closer to becoming the developer I dream of being."*
 
 </div>
-```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=8B0000,FF0000"/>
